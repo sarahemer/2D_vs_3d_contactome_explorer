@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 979 360">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #e24b4a;
+        stroke-dasharray: 6 3;
+        stroke-width: 1.5px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #378add;
+      }
+
+      .cls-5 {
+        fill: #444441;
+        font-size: 12px;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        isolation: isolate;
+      }
+
+      .cls-5, .cls-8 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .cls-7 {
+        fill: #e24b4a;
+      }
+
+      .cls-7, .cls-10 {
+        font-weight: 700;
+      }
+
+      .cls-7, .cls-11 {
+        font-family: Arial-BoldMT, Arial;
+      }
+
+      .cls-7, .cls-12, .cls-9 {
+        font-size: 14px;
+      }
+
+      .cls-2 {
+        stroke: #dedcd6;
+        stroke-width: .5px;
+      }
+
+      .cls-10 {
+        font-size: 18px;
+      }
+
+      .cls-8 {
+        font-size: 10px;
+      }
+
+      .cls-8, .cls-12, .cls-9 {
+        fill: #2c2c2a;
+      }
+
+      .cls-13 {
+        font-family: Arial-BoldItalicMT, Arial;
+        font-style: italic;
+      }
+
+      .cls-12, .cls-9 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-3 {
+        stroke: #2c2c2a;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Layer_1">
+      <line class="cls-2" x1="76.6" y1="312.7" x2="945.6" y2="312.7"/>
+      <text class="cls-5" transform="translate(57.1 315.7)"><tspan x="0" y="0">0.0</tspan></text>
+      <text class="cls-5" transform="translate(57.1 289.7)"><tspan x="0" y="0">0.1</tspan></text>
+      <text class="cls-5" transform="translate(57.1 263.7)"><tspan x="0" y="0">0.2</tspan></text>
+      <text class="cls-5" transform="translate(57.1 237.7)"><tspan x="0" y="0">0.3</tspan></text>
+      <text class="cls-5" transform="translate(57.1 211.7)"><tspan x="0" y="0">0.4</tspan></text>
+      <text class="cls-5" transform="translate(57.1 185.7)"><tspan x="0" y="0">0.5</tspan></text>
+      <text class="cls-5" transform="translate(57.1 159.7)"><tspan x="0" y="0">0.6</tspan></text>
+      <text class="cls-5" transform="translate(57.1 133.7)"><tspan x="0" y="0">0.7</tspan></text>
+      <text class="cls-5" transform="translate(57.1 107.7)"><tspan x="0" y="0">0.8</tspan></text>
+      <text class="cls-5" transform="translate(57.1 81.7)"><tspan x="0" y="0">0.9</tspan></text>
+      <text class="cls-5" transform="translate(57.1 55.7)"><tspan x="0" y="0">1.0</tspan></text>
+      <g class="cls-6">
+        <text class="cls-9" transform="translate(43.6 250.2) rotate(-90)"><tspan x="0" y="0">Spearman correlation r</tspan></text>
+        <text class="cls-12" transform="translate(37.5 153.4) rotate(-90)"><tspan x="0" y="0"> </tspan></text>
+        <text class="cls-9" transform="translate(50.5 254) rotate(-90)"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <line class="cls-3" x1="76.6" y1="52.7" x2="76.6" y2="312.7"/>
+      <line class="cls-3" x1="76.6" y1="312.7" x2="945.6" y2="312.7"/>
+      <line class="cls-1" x1="76.6" y1="75.1" x2="945.6" y2="75.1"/>
+      <text class="cls-7" transform="translate(859.2 90.5)"><tspan x="0" y="0">mean = 0.914</tspan></text>
+      <circle class="cls-4" cx="82.1" cy="107.8" r="3.5"/>
+      <circle class="cls-4" cx="93.1" cy="98.7" r="3.5"/>
+      <circle class="cls-4" cx="104.1" cy="96.9" r="3.5"/>
+      <circle class="cls-4" cx="115.1" cy="96.1" r="3.5"/>
+      <circle class="cls-4" cx="126.1" cy="95.1" r="3.5"/>
+      <circle class="cls-4" cx="137.1" cy="95.1" r="3.5"/>
+      <circle class="cls-4" cx="148.1" cy="90.7" r="3.5"/>
+      <circle class="cls-4" cx="159.1" cy="86.8" r="3.5"/>
+      <circle class="cls-4" cx="170.1" cy="84.9" r="3.5"/>
+      <circle class="cls-4" cx="181.1" cy="84.7" r="3.5"/>
+      <circle class="cls-4" cx="192.1" cy="83.6" r="3.5"/>
+      <circle class="cls-4" cx="203.1" cy="83.1" r="3.5"/>
+      <circle class="cls-4" cx="214.1" cy="82.6" r="3.5"/>
+      <circle class="cls-4" cx="225.1" cy="82.6" r="3.5"/>
+      <circle class="cls-4" cx="236.1" cy="82.3" r="3.5"/>
+      <circle class="cls-4" cx="247.1" cy="82.1" r="3.5"/>
+      <circle class="cls-4" cx="258.1" cy="80.5" r="3.5"/>
+      <circle class="cls-4" cx="269.1" cy="80.3" r="3.5"/>
+      <circle class="cls-4" cx="280.1" cy="80.3" r="3.5"/>
+      <circle class="cls-4" cx="291.1" cy="80" r="3.5"/>
+      <circle class="cls-4" cx="302.1" cy="79.5" r="3.5"/>
+      <circle class="cls-4" cx="313.1" cy="79.2" r="3.5"/>
+      <circle class="cls-4" cx="324.1" cy="79.2" r="3.5"/>
+      <circle class="cls-4" cx="335.1" cy="79" r="3.5"/>
+      <circle class="cls-4" cx="346.1" cy="77.7" r="3.5"/>
+      <circle class="cls-4" cx="357.1" cy="77.7" r="3.5"/>
+      <circle class="cls-4" cx="368.1" cy="76.9" r="3.5"/>
+      <circle class="cls-4" cx="379.1" cy="76.9" r="3.5"/>
+      <circle class="cls-4" cx="390.1" cy="76.4" r="3.5"/>
+      <circle class="cls-4" cx="401.1" cy="76.4" r="3.5"/>
+      <circle class="cls-4" cx="412.1" cy="75.8" r="3.5"/>
+      <circle class="cls-4" cx="423.1" cy="75.6" r="3.5"/>
+      <circle class="cls-4" cx="434.1" cy="74.8" r="3.5"/>
+      <circle class="cls-4" cx="445.1" cy="74.8" r="3.5"/>
+      <circle class="cls-4" cx="456.1" cy="74.8" r="3.5"/>
+      <circle class="cls-4" cx="467.1" cy="74.5" r="3.5"/>
+      <circle class="cls-4" cx="478.1" cy="74.5" r="3.5"/>
+      <circle class="cls-4" cx="489.1" cy="74.5" r="3.5"/>
+      <circle class="cls-4" cx="500.1" cy="74.3" r="3.5"/>
+      <circle class="cls-4" cx="511.1" cy="74.3" r="3.5"/>
+      <circle class="cls-4" cx="522.1" cy="74.3" r="3.5"/>
+      <circle class="cls-4" cx="533.1" cy="74" r="3.5"/>
+      <circle class="cls-4" cx="544.1" cy="73.8" r="3.5"/>
+      <circle class="cls-4" cx="555.1" cy="73.5" r="3.5"/>
+      <circle class="cls-4" cx="566.1" cy="73.5" r="3.5"/>
+      <circle class="cls-4" cx="577.1" cy="73" r="3.5"/>
+      <circle class="cls-4" cx="588.1" cy="72.7" r="3.5"/>
+      <circle class="cls-4" cx="599.1" cy="71.9" r="3.5"/>
+      <circle class="cls-4" cx="610.1" cy="70.9" r="3.5"/>
+      <circle class="cls-4" cx="621.1" cy="70.6" r="3.5"/>
+      <circle class="cls-4" cx="632.1" cy="70.4" r="3.5"/>
+      <circle class="cls-4" cx="643.1" cy="69.9" r="3.5"/>
+      <circle class="cls-4" cx="654.1" cy="69.6" r="3.5"/>
+      <circle class="cls-4" cx="665.1" cy="69.3" r="3.5"/>
+      <circle class="cls-4" cx="676.1" cy="69.3" r="3.5"/>
+      <circle class="cls-4" cx="687.1" cy="68.8" r="3.5"/>
+      <circle class="cls-4" cx="698.1" cy="68.6" r="3.5"/>
+      <circle class="cls-4" cx="709.1" cy="68.6" r="3.5"/>
+      <circle class="cls-4" cx="720.1" cy="68.6" r="3.5"/>
+      <circle class="cls-4" cx="731.1" cy="68.6" r="3.5"/>
+      <circle class="cls-4" cx="742.1" cy="68.3" r="3.5"/>
+      <circle class="cls-4" cx="753.1" cy="68.3" r="3.5"/>
+      <circle class="cls-4" cx="764.1" cy="67.8" r="3.5"/>
+      <circle class="cls-4" cx="775.1" cy="67.3" r="3.5"/>
+      <circle class="cls-4" cx="786.1" cy="67.3" r="3.5"/>
+      <circle class="cls-4" cx="797.1" cy="67.3" r="3.5"/>
+      <circle class="cls-4" cx="808.1" cy="67" r="3.5"/>
+      <circle class="cls-4" cx="819.1" cy="66" r="3.5"/>
+      <circle class="cls-4" cx="830.1" cy="65.4" r="3.5"/>
+      <circle class="cls-4" cx="841.1" cy="64.7" r="3.5"/>
+      <circle class="cls-4" cx="852.1" cy="63.9" r="3.5"/>
+      <circle class="cls-4" cx="863.1" cy="63.6" r="3.5"/>
+      <circle class="cls-4" cx="874.1" cy="63.1" r="3.5"/>
+      <circle class="cls-4" cx="885.1" cy="63.1" r="3.5"/>
+      <circle class="cls-4" cx="896.1" cy="62.3" r="3.5"/>
+      <circle class="cls-4" cx="907.1" cy="62.1" r="3.5"/>
+      <circle class="cls-4" cx="918.1" cy="61.5" r="3.5"/>
+      <circle class="cls-4" cx="929.1" cy="61" r="3.5"/>
+      <circle class="cls-4" cx="940.1" cy="60.5" r="3.5"/>
+      <text class="cls-8" transform="translate(73.2 336.8) rotate(-65)"><tspan x="0" y="0">BDU</tspan></text>
+      <text class="cls-8" transform="translate(84.4 336.3) rotate(-65)"><tspan x="0" y="0">AUA</tspan></text>
+      <text class="cls-8" transform="translate(95.3 336.7) rotate(-65)"><tspan x="0" y="0">AVM</tspan></text>
+      <text class="cls-8" transform="translate(107.1 334.8) rotate(-65)"><tspan x="0" y="0">ALA</tspan></text>
+      <text class="cls-8" transform="translate(117.4 336.3) rotate(-65)"><tspan x="0" y="0">ADE</tspan></text>
+      <text class="cls-8" transform="translate(128.7 335.7) rotate(-65)"><tspan x="0" y="0">AVD</tspan></text>
+      <text class="cls-8" transform="translate(141.3 332.3) rotate(-65)"><tspan x="0" y="0">SIB</tspan></text>
+      <text class="cls-8" transform="translate(151.4 334.3) rotate(-65)"><tspan x="0" y="0">FLP</tspan></text>
+      <text class="cls-8" transform="translate(161.4 336.3) rotate(-65)"><tspan x="0" y="0">PVR</tspan></text>
+      <text class="cls-8" transform="translate(171.5 338.3) rotate(-65)"><tspan x="0" y="0">RMH</tspan></text>
+      <text class="cls-8" transform="translate(183.7 335.7) rotate(-65)"><tspan x="0" y="0">AVH</tspan></text>
+      <text class="cls-8" transform="translate(194.7 335.8) rotate(-65)"><tspan x="0" y="0">ADF</tspan></text>
+      <text class="cls-8" transform="translate(205.6 335.8) rotate(-65)"><tspan x="0" y="0">PVP</tspan></text>
+      <text class="cls-8" transform="translate(216.4 336.3) rotate(-65)"><tspan x="0" y="0">PVC</tspan></text>
+      <text class="cls-8" transform="translate(227.7 335.7) rotate(-65)"><tspan x="0" y="0">DVA</tspan></text>
+      <text class="cls-8" transform="translate(239.4 334.3) rotate(-65)"><tspan x="0" y="0">ASJ</tspan></text>
+      <text class="cls-8" transform="translate(251.1 332.8) rotate(-65)"><tspan x="0" y="0">RIV</tspan></text>
+      <text class="cls-8" transform="translate(262.1 332.8) rotate(-65)"><tspan x="0" y="0">AIN</tspan></text>
+      <text class="cls-8" transform="translate(272.1 334.8) rotate(-65)"><tspan x="0" y="0">VB1</tspan></text>
+      <text class="cls-8" transform="translate(283.3 334.5) rotate(-65)"><tspan x="0" y="0">AVA</tspan></text>
+      <text class="cls-8" transform="translate(294.6 333.8) rotate(-65)"><tspan x="0" y="0">AIM</tspan></text>
+      <text class="cls-8" transform="translate(304.2 336.8) rotate(-65)"><tspan x="0" y="0">ASG</tspan></text>
+      <text class="cls-8" transform="translate(315.2 336.8) rotate(-65)"><tspan x="0" y="0">URA</tspan></text>
+      <text class="cls-8" transform="translate(327.7 333.7) rotate(-65)"><tspan x="0" y="0">AVJ</tspan></text>
+      <text class="cls-8" transform="translate(336.9 337.3) rotate(-65)"><tspan x="0" y="0">SDQ</tspan></text>
+      <text class="cls-8" transform="translate(350.3 332.3) rotate(-65)"><tspan x="0" y="0">SIA</tspan></text>
+      <text class="cls-8" transform="translate(358.7 337.8) rotate(-65)"><tspan x="0" y="0">RME</tspan></text>
+      <text class="cls-8" transform="translate(371 335.2) rotate(-65)"><tspan x="0" y="0">AVE</tspan></text>
+      <text class="cls-8" transform="translate(382.8 333.3) rotate(-65)"><tspan x="0" y="0">RIC</tspan></text>
+      <text class="cls-8" transform="translate(393.2 334.7) rotate(-65)"><tspan x="0" y="0">AVF</tspan></text>
+      <text class="cls-8" transform="translate(403.3 336.7) rotate(-65)"><tspan x="0" y="0">URY</tspan></text>
+      <text class="cls-8" transform="translate(416.3 332.3) rotate(-65)"><tspan x="0" y="0">RIF</tspan></text>
+      <text class="cls-8" transform="translate(428.2 330.3) rotate(-65)"><tspan x="0" y="0">IL1</tspan></text>
+      <text class="cls-8" transform="translate(437.8 333.3) rotate(-65)"><tspan x="0" y="0">RID</tspan></text>
+      <text class="cls-8" transform="translate(447.9 335.3) rotate(-65)"><tspan x="0" y="0">PVT</tspan></text>
+      <text class="cls-8" transform="translate(459.1 334.8) rotate(-65)"><tspan x="0" y="0">OLL</tspan></text>
+      <text class="cls-8" transform="translate(471.1 332.8) rotate(-65)"><tspan x="0" y="0">RIB</tspan></text>
+      <text class="cls-8" transform="translate(480.9 335.3) rotate(-65)"><tspan x="0" y="0">ALN</tspan></text>
+      <text class="cls-8" transform="translate(491.6 335.8) rotate(-65)"><tspan x="0" y="0">SAA</tspan></text>
+      <text class="cls-8" transform="translate(504.3 332.3) rotate(-65)"><tspan x="0" y="0">ASI</tspan></text>
+      <text class="cls-8" transform="translate(513.4 336.3) rotate(-65)"><tspan x="0" y="0">ADA</tspan></text>
+      <text class="cls-8" transform="translate(524.4 336.3) rotate(-65)"><tspan x="0" y="0">CEP</tspan></text>
+      <text class="cls-8" transform="translate(534.6 338) rotate(-65)"><tspan x="0" y="0">AWB</tspan></text>
+      <text class="cls-8" transform="translate(545.9 337.3) rotate(-65)"><tspan x="0" y="0">SMB</tspan></text>
+      <text class="cls-8" transform="translate(558 335.2) rotate(-65)"><tspan x="0" y="0">AVB</tspan></text>
+      <text class="cls-8" transform="translate(568.2 336.8) rotate(-65)"><tspan x="0" y="0">OLQ</tspan></text>
+      <text class="cls-8" transform="translate(579.4 336.3) rotate(-65)"><tspan x="0" y="0">ASH</tspan></text>
+      <text class="cls-8" transform="translate(591.4 334.2) rotate(-65)"><tspan x="0" y="0">AVL</tspan></text>
+      <text class="cls-8" transform="translate(601.4 336.3) rotate(-65)"><tspan x="0" y="0">ALM</tspan></text>
+      <text class="cls-8" transform="translate(613 335.2) rotate(-65)"><tspan x="0" y="0">AVK</tspan></text>
+      <text class="cls-8" transform="translate(623.2 336.8) rotate(-65)"><tspan x="0" y="0">URX</tspan></text>
+      <text class="cls-8" transform="translate(635.8 333.3) rotate(-65)"><tspan x="0" y="0">RIH</tspan></text>
+      <text class="cls-8" transform="translate(644.7 337.8) rotate(-65)"><tspan x="0" y="0">SMD</tspan></text>
+      <text class="cls-8" transform="translate(657.4 334.3) rotate(-65)"><tspan x="0" y="0">RIM</tspan></text>
+      <text class="cls-8" transform="translate(669.1 332.8) rotate(-65)"><tspan x="0" y="0">RIS</tspan></text>
+      <text class="cls-8" transform="translate(677.8 337.7) rotate(-65)"><tspan x="0" y="0">AWA</tspan></text>
+      <text class="cls-8" transform="translate(692.2 330.3) rotate(-65)"><tspan x="0" y="0">IL2</tspan></text>
+      <text class="cls-8" transform="translate(701.6 333.8) rotate(-65)"><tspan x="0" y="0">RIG</tspan></text>
+      <text class="cls-8" transform="translate(713.3 332.3) rotate(-65)"><tspan x="0" y="0">AIB</tspan></text>
+      <text class="cls-8" transform="translate(721.9 337.3) rotate(-65)"><tspan x="0" y="0">RMF</tspan></text>
+      <text class="cls-8" transform="translate(733.9 335.3) rotate(-65)"><tspan x="0" y="0">ADL</tspan></text>
+      <text class="cls-8" transform="translate(743.9 337.3) rotate(-65)"><tspan x="0" y="0">AQR</tspan></text>
+      <text class="cls-8" transform="translate(757.1 332.8) rotate(-65)"><tspan x="0" y="0">RIP</tspan></text>
+      <text class="cls-8" transform="translate(766.2 336.8) rotate(-65)"><tspan x="0" y="0">BAG</tspan></text>
+      <text class="cls-8" transform="translate(776.2 338.8) rotate(-65)"><tspan x="0" y="0">RMG</tspan></text>
+      <text class="cls-8" transform="translate(788.7 335.8) rotate(-65)"><tspan x="0" y="0">AFD</tspan></text>
+      <text class="cls-8" transform="translate(799.2 336.8) rotate(-65)"><tspan x="0" y="0">DVC</tspan></text>
+      <text class="cls-8" transform="translate(812.3 332.3) rotate(-65)"><tspan x="0" y="0">AIA</tspan></text>
+      <text class="cls-8" transform="translate(817.4 344.9) rotate(-65)"><tspan x="0" y="0">RMDD</tspan></text>
+      <text class="cls-8" transform="translate(831.4 338.5) rotate(-65)"><tspan x="0" y="0">AWC</tspan></text>
+      <text class="cls-8" transform="translate(843.6 335.8) rotate(-65)"><tspan x="0" y="0">ASK</tspan></text>
+      <text class="cls-8" transform="translate(854.2 336.8) rotate(-65)"><tspan x="0" y="0">URB</tspan></text>
+      <text class="cls-8" transform="translate(867.5 331.8) rotate(-65)"><tspan x="0" y="0">AIZ</tspan></text>
+      <text class="cls-8" transform="translate(877.8 333.3) rotate(-65)"><tspan x="0" y="0">RIR</tspan></text>
+      <text class="cls-8" transform="translate(887.2 336.8) rotate(-65)"><tspan x="0" y="0">PVQ</tspan></text>
+      <text class="cls-8" transform="translate(894.7 344.4) rotate(-65)"><tspan x="0" y="0">RMDV</tspan></text>
+      <text class="cls-8" transform="translate(911.3 332.3) rotate(-65)"><tspan x="0" y="0">AIY</tspan></text>
+      <text class="cls-8" transform="translate(922.1 332.8) rotate(-65)"><tspan x="0" y="0">RIA</tspan></text>
+      <text class="cls-8" transform="translate(931.6 335.8) rotate(-65)"><tspan x="0" y="0">ASE</tspan></text>
+      <text class="cls-10" transform="translate(72 29.5)"><tspan class="cls-11" x="0" y="0">2D vs. 3D </tspan><tspan class="cls-13" x="86" y="0">C. elegans</tspan><tspan class="cls-11" x="176.1" y="0" xml:space="preserve"> Nerve Ring Contactome Correlation.</tspan></text>
+    </g>
+  </g>
+</svg>

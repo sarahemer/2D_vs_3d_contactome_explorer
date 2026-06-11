@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>C. elegans Contactome Explorer — 2D vs 3D</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: Helvetica, Arial, sans-serif; color: #2C2C2A; background: #fff; line-height: 1.6; }
+  header { border-bottom: 0.5px solid #DEDCD6; padding: 2rem; }
+  header h1 { font-size: 22px; font-weight: 500; margin-bottom: 6px; }
+  header p { font-size: 14px; color: #5F5E5A; max-width: 700px; }
+  .badge { display: inline-block; font-size: 11px; background: #E6F1FB; color: #0C447C; padding: 2px 8px; border-radius: 4px; margin-right: 6px; margin-top: 8px; }
+  main { max-width: 900px; margin: 0 auto; padding: 2rem; }
+  .card { border: 0.5px solid #DEDCD6; border-radius: 10px; padding: 1.5rem; margin-bottom: 1.5rem; }
+  .card h2 { font-size: 16px; font-weight: 500; margin-bottom: 8px; }
+  .card p { font-size: 13px; color: #5F5E5A; margin-bottom: 1rem; line-height: 1.6; }
+  .btn { display: inline-block; font-size: 13px; font-weight: 500; color: #185FA5; border: 0.5px solid #378ADD; border-radius: 6px; padding: 6px 16px; text-decoration: none; }
+  .btn:hover { background: #E6F1FB; }
+  .meta { font-size: 12px; color: #888780; margin-top: 6px; }
+  footer { border-top: 0.5px solid #DEDCD6; padding: 1.5rem 2rem; font-size: 12px; color: #888780; }
+  footer a { color: #378ADD; text-decoration: none; }
+  img.preview { width: 100%; border: 0.5px solid #DEDCD6; border-radius: 6px; margin-bottom: 1rem; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1><em>C. elegans</em> Contactome Explorer — 2D vs 3D</h1>
+  <p>Interactive tools for comparing 2D TEM-based and 3D volumetric nerve ring contactomes in the larval stage 2 (L2) animal.</p>
+  <span class="badge">L2 animal</span>
+  <span class="badge">174 neurons</span>
+  <span class="badge">2D vs 3D</span>
+</header>
+
+<main>
+
+  <div class="card">
+    <h2>Contact profile heatmap</h2>
+    <p>For each of 180 neurons, compare the full set of contact partners detected by the 2D and 3D algorithms side by side. Partners are ordered by 2D contact strength (high to low). Each cell represents one partner neuron — colour intensity encodes contact area. Hover any cell for the partner name and exact value. The Spearman r correlation between the two profiles is shown for each neuron.</p>
+    <a class="btn" href="contactome_heatmap_sorted_v2.html">Open heatmap explorer →</a>
+    <p class="meta">2D: SEM L2 TEM adjacency matrix &nbsp;·&nbsp; 3D: volumetric contactome at 64×64×30 nm resolution</p>
+  </div>
+
+  <div class="card">
+    <h2>Spearman correlation dot plot</h2>
+    <p>Spearman rank correlation coefficients between 2D and 3D contact partner profiles, collapsed by bilateral symmetry into 79 neuron classes and sorted low to high. The dashed red line shows the mean correlation across all classes (r = 0.914), demonstrating strong overall agreement between the two methods.</p>
+    <a class="btn" href="spearman_dotplot_blue_red.svg" target="_blank">View figure →</a>
+    <p class="meta">79 neuron classes · mean r = 0.914</p>
+  </div>
+
+  <div class="card">
+    <h2>Methods summary</h2>
+    <p>The 2D contactome was derived from a TEM-based adjacency matrix of the <em>C. elegans</em> nerve ring (L2 animal, 6.144 nm x/y resolution, 50 nm z-spacing). The 3D contactome was generated from a volumetric segmentation at 64×64×30 nm resolution. Spearman rank correlation was computed per neuron across all contact partners detected by either method, with absent contacts scored as zero. Non-neuronal cells (body wall muscle, excretory gland, fragment reconstructions, CAN neurons) were excluded from all analyses.</p>
+  </div>
+
+</main>
+
+<footer>
+  Data from the Witvliet et al. <em>C. elegans</em> connectome project.
+  &nbsp;·&nbsp; <a href="https://github.com/sarahemer/2D_vs_3d_contactome_explorer">GitHub repository</a>
+</footer>
+
+</body>
+</html>
